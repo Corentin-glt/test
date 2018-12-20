@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import Root from './routes.js'
 import configureStore from './Store/configureStore'
 
