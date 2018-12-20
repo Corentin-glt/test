@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 function HomeScene(props) {
   const {name} = props;
   return (
-    <div>
+    <div className="containerHome">
       Hello World {name} !
     </div>
   )
